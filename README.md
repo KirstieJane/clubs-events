@@ -1,6 +1,9 @@
 #Welcome!
 
-This is the Mozilla Clubs Event Reporting tool. It allows users to submit and browse through event reports.
+This is Kirstie's fork of the the Mozilla Clubs Event Reporting tool. It allows users to submit and browse through event reports.
+
+The plan is to fiddle with it until it works nicely for the [STEMM Role Models](www.stemmrolemodels.com) project!
+
 
 ##This is a prototype
 
